@@ -2,6 +2,9 @@
 
 A production-grade Sentiment Analysis web application built with Python, Pandas, Scikit-learn, and Streamlit. This app classifies text into **Positive**, **Negative**, or **Neutral** sentiments, providing confidence scores and intuitive visualizations.
 
+## Live Demo 
+https://sentiment-analysis-cbpmuzj85m4jvlp8ypwpo7.streamlit.app/
+
 ## 🚀 Features
 - **Single Text Analysis**: Instantly analyze sentences or paragraphs with an interactive UI.
 - **Bulk CSV Upload**: Process hundreds of rows simultaneously and download the results.
