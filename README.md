@@ -54,4 +54,13 @@ Through building this portfolio project, I successfully demonstrated the end-to-
 - **Interface Out**: Designing a modern, responsive web application that presents AI predictions in a highly visual, user-friendly format.
 
 ## 📸 Screenshots
-*(Add your screenshots here)*
+<img width="1920" height="1080" alt="Screenshot 2026-08-28 175251" src="https://github.com/user-attachments/assets/0ebe5dcb-f572-4138-a24b-df17bc92f33b" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-28 175339" src="https://github.com/user-attachments/assets/b3fa8162-7240-4512-a276-583b8e04282e" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-28 175408" src="https://github.com/user-attachments/assets/281c80df-4a0a-42d7-8404-5d580d181f2b" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-28 175456" src="https://github.com/user-attachments/assets/457b6fda-7060-4940-aa61-e076c573fe1d" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-28 175522" src="https://github.com/user-attachments/assets/f4ae6efb-7124-4de6-84fb-96e80bf0669a" />
+
+
+
+
+
